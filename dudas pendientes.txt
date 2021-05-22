@@ -1,0 +1,10 @@
+
+In MEET OUR HOSTS area, I don't know how to apply a "non-wrap" function and make the row scrollable!!!
+In, LATEST NEWS / FOLOW US CONTAINER, In between md and large. I don't know how align center the "follow us"
+In footer on within medium at large. I don't know how convert in horizontal display by divs. 
+in footer and navbar I don't know how make work "br" separator line between contents. 
+Where can I get Airbnb and social nets icons?
+In Navbar. In xs, how can I change the content by the three horizontal lines?
+In meet our hosts. I don't know how sending the button "view all" after the pictures.
+in meet our hosts. how I'm supposed to code to make picutres expanding correctly in the wider and height space?
+
