@@ -4,7 +4,7 @@
   margin-bottom: 40px;
 }
 
-.navbar a {
+.navbar li a {
   color: black;
   font-size: 16px;
   font-weight: 500;
@@ -12,11 +12,7 @@
   font-family: sans-serif;
 }
 
-@media (min-width: 1200px) {
-  #navbarMenu {
-    display: none !important;
-  }
-}
+
 
 .navbar-brand {
   margin-left: 55px;
@@ -27,12 +23,6 @@
   z-index: 1;
 }
 
-#navbarMenu {
-  top: 0;
-  left: 0;
-  right: 0;
-  padding-top: 88px;
-}
 
 
 @media (min-width: 1200px) {
